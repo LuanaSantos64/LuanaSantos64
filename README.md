@@ -1,16 +1,45 @@
-## Hi there 👋
+# Olá! Eu sou a Luana Santos 👋
 
-<!--
-**LuanaSantos64/LuanaSantos64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desenvolvedora em formação | Python Backend
 
-Here are some ideas to get you started:
+Sou estudante de programação, atualmente focada no desenvolvimento backend com Python. Gosto de entender como as coisas funcionam por trás do código e busco evoluir constantemente por meio de estudos e projetos práticos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou construindo minha jornada na programação, desenvolvendo minhas habilidades e transformando conhecimento em projetos.
+
+---
+
+### 💻 Tecnologias e ferramentas
+
+**Atualmente estudando e utilizando:**
+
+- Python
+- Programação Orientada a Objetos (POO)
+- Git e GitHub
+- HTML e CSS
+- Banco de Dados (em aprendizado)
+
+### 📚 Atualmente aprendendo
+
+- Desenvolvimento Backend com Python
+- Desenvolvimento Web
+- Banco de Dados e SQL
+- Boas práticas de programação
+
+### 🎯 Objetivos
+
+- Aprimorar meus conhecimentos em Python.
+- Desenvolver aplicações backend.
+- Construir projetos próprios e fortalecer meu portfólio.
+- Aprender novas tecnologias e evoluir como desenvolvedora.
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark&hide_border=true)
+
+---
+
+*"A melhor maneira de aprender a programar é construindo algo."*
+
+
